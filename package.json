@@ -1,5 +1,5 @@
 {
-  "name": "swagger-jsdoc",
+  "name": "swagger-jsdoc-lite",
   "version": "1.9.7",
   "description": "Generates swagger doc based on JSDoc",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Surnet/swagger-jsdoc.git"
+    "url": "https://github.com/cikasfm/swagger-jsdoc-lite.git"
   },
   "keywords": [
     "jsdoc",
@@ -23,12 +23,12 @@
     "express",
     "swagger"
   ],
-  "author": "https://github.com/Surnet/swagger-jsdoc/graphs/contributors",
+  "author": "https://github.com/cikasfm/swagger-jsdoc-lite/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Surnet/swagger-jsdoc/issues"
+    "url": "https://github.com/cikasfm/swagger-jsdoc-lite/issues"
   },
-  "homepage": "https://github.com/Surnet/swagger-jsdoc",
+  "homepage": "https://github.com/cikasfm/swagger-jsdoc-lite",
   "dependencies": {
     "doctrine": "^2.0.0",
     "glob": "^7.1.2",
